@@ -7,4 +7,11 @@
   <properties>
   	<project.build.sourceEcoding>UTF-8</project.build.sourceEcoding>
   </properties>
+  <modules>
+  	<module>helloworldmvc.controller</module>
+  	<module>helloworldmvc.model</module>
+  	<module>helloworldmvc.view</module>
+  	<module>helloworldmvc.contract</module>
+  	<module>helloworldmvc.main</module>
+  </modules>
 </project>
